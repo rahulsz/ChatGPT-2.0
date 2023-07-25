@@ -110,4 +110,6 @@ Feel free to contribute, report issues, and provide feedback to enhance the func
 
 # Hosting
 
-This project is hosted using Vercel. You can access the application through the following link: [Client ChatGPT](https://client-chatgpt-mu.vercel.app/)
+This project is hosted using Vercel. You can access the application through the following link: [Client ChatGPT](https://client-chatgpt-mu.vercel.app/) 
+![Screenshot 2023-07-25 145913](https://github.com/rahulsz/ChatGPT-2.0/assets/130664248/e4d0c08c-a092-4a9d-87d2-48ab360e0fac)
+
