@@ -1,4 +1,6 @@
 # Frontend and Backend Project
+![Screenshot 2023-07-17 144530_1689585457745](https://github.com/rahulsz/ChatGPT-2.0/assets/130664248/9c8cd5ed-9577-4499-81e5-29aab533bd58)
+
 
 ## Frontend
 
